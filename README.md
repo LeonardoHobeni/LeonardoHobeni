@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LeonardoHobeni
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m a Front-End Developer
+- 👋 I'm a Java Programmer
 - 💞️ I’m looking to collaborate on developing a useful app
 - 📫 How to reach me on twitter:@bonga_leonardo
 
