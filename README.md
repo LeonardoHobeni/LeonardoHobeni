@@ -2,6 +2,10 @@
 - 👀 I’m interested in Mobile and Web Development
 - 🌱 I’m a Front-End Developer
 - 👋 I'm a Java Programmer
+- 👋 Love Physics and Mathematics
+- 🌱 Learning and Studying are my vices
+- 🌱 Into Robotics and Electronics Engineering
+- 🌱 Chess player
 - 💞️ I’m looking to collaborate on developing a useful app
 - 📫 How to reach me on twitter:@bonga_leonardo
 
