@@ -6,6 +6,7 @@
 - 🌱 Learning and Studying are my vices
 - 🌱 Into Robotics and Electronics Engineering
 - 🌱 Chess player
+- 🌱 Graduate
 - 💞️ I’m looking to collaborate on developing a useful app
 - 📫 How to reach me on twitter:@bonga_leonardo
 
